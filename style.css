@@ -6,18 +6,38 @@ html{
     text-align: center;
     
     font-family: Impact, Charcoal, sans-serif;
+    text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
 }
 #zen-summary {
     color: green;
     font-family: Impact, Charcoal, sans-serif;
+    text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
 }
 #zen-preamble {
     color: white;
     font-family: Impact, Charcoal, sans-serif;
+    text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
 }
 #zen-supporting {
     color: hotpink;
     text-align: center;
     font-family: Impact, Charcoal, sans-serif;
+    text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
   
 }
