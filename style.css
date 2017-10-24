@@ -11,6 +11,7 @@ html{
 		1px -1px 0 #000,
 		-1px 1px 0 #000,
 		1px 1px 0 #000;
+	font-size: 60px;
 }
 #zen-summary {
     color: green;
@@ -20,6 +21,7 @@ html{
 		1px -1px 0 #000,
 		-1px 1px 0 #000,
 		1px 1px 0 #000;
+	font-size: 60px;
 }
 #zen-preamble {
     color: white;
@@ -29,6 +31,7 @@ html{
 		1px -1px 0 #000,
 		-1px 1px 0 #000,
 		1px 1px 0 #000;
+	font-size: 60px;
 }
 #zen-supporting {
     color: hotpink;
@@ -39,5 +42,5 @@ html{
 		1px -1px 0 #000,
 		-1px 1px 0 #000,
 		1px 1px 0 #000;
-  
+   font-size: 60px;
 }
