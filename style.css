@@ -1,0 +1,23 @@
+html{
+    background-image: url(https://i.ytimg.com/vi/5loLf_doe_c/maxresdefault.jpg);
+}
+.intro {
+    color: blue;
+    text-align: center;
+    
+    font-family: Impact, Charcoal, sans-serif;
+}
+#zen-summary {
+    color: green;
+    font-family: Impact, Charcoal, sans-serif;
+}
+#zen-preamble {
+    color: white;
+    font-family: Impact, Charcoal, sans-serif;
+}
+#zen-supporting {
+    color: hotpink;
+    text-align: center;
+    font-family: Impact, Charcoal, sans-serif;
+  
+}
